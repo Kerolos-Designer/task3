@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(210, 231, 224);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.container{
+    width: 300px;
+    border-radius: 15px;
+    padding: 20px;
+    box-sizing: border-box;
+    margin: auto;
+    margin-top: 150px;
+    background-color: white;
+    text-align: center;
+}
+
+.form{  
+    width: fit-content;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 30px;
+    margin: auto;
+    margin-top: 40px;
+    text-align: center;
+}
+
+h3{
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+
+input{
+    width: 250px;
+    height: 30px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding-left: 5px;
+}
+
+.Register{
+    width: 250px;
+    height: 30px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    background-color: rgb(77, 124, 151);
+    color: white;
+    font-size: 17px;
+}
+
+p{
+    color: cadetblue;
+}
